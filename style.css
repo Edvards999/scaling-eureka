@@ -1,0 +1,38 @@
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+  }
+.palabi {
+    margin-left: 60%;
+    height: 100px;
+    width: 100px;
+}
+.pakreisi {
+    margin-left: 30%;
+    height: 100px;
+    width: 100px;
+}
+.pavidu {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.teksts {
+  padding-left: 20px;
+  padding-top: 20px;
+  float: left;
+  margin-left: 10px;
+  margin-right: 20%;
+}
+.bilde {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 100px;
+}
+.kaste {
+    display: flex;
+}
